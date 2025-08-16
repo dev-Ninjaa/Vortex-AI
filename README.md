@@ -1,9 +1,9 @@
 
-# LUNA: Your Intelligent Desktop Assistant
+# VORTEX: Your Intelligent Desktop Assistant
 
 ## Introduction
 
-Imagine having a personal assistant that not only understands your commands but seamlessly integrates with your digital life. Meet LUNA, an intelligent desktop assistant that combines voice interaction, smart automation, and natural conversation capabilities. While there are many virtual assistants available, LUNA stands out by offering a unique blend of offline functionality and cloud-powered intelligence.
+Imagine having a personal assistant that not only understands your commands but seamlessly integrates with your digital life. Meet VORTEX, an intelligent desktop assistant that combines voice interaction, smart automation, and natural conversation capabilities. While there are many virtual assistants available, VORTEX stands out by offering a unique blend of offline functionality and cloud-powered intelligence.
 
 LUNA represents the future of desktop interaction - a future where your computer truly understands you. While we're still in beta and working through some challenges, we're committed to creating the most intuitive and powerful desktop assistant available.
 
@@ -116,7 +116,7 @@ LUNA represents the future of desktop interaction - a future where your computer
 **Setup & Run:**
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/AaYuSh11233/Luna-AI.git
+   git clone https://github.com/dev-Ninjaa/Vortex-AI.git
 
    cd LUNA-AI
    ```
@@ -205,10 +205,10 @@ We're transparent about these limitations as we believe in honest communication 
 
 ## Competitive Analysis
 
-Why users might choose LUNA over alternatives:
+Why users might choose VORTEX over alternatives:
 
 1. Desktop Focus
-   - Unlike mobile-first assistants, LUNA is optimized for computer use
+   - Unlike mobile-first assistants, VORTEX is optimized for computer use
    - Better integration with desktop workflows
    - More powerful system control capabilities
 
@@ -237,26 +237,26 @@ Why users might choose LUNA over alternatives:
 
 # ❓ **Frequently Asked Questions**
 
-**Q: How is LUNA different from Alexa or Google Assistant?**  
-A: LUNA is designed specifically for desktop environments with deep system integration. Unlike cloud-only assistants, LUNA can perform offline tasks and directly control your computer.
+**Q: How is VORTEX different from Alexa or Google Assistant?**  
+A: VORTEX is designed specifically for desktop environments with deep system integration. Unlike cloud-only assistants, VORTEX can perform offline tasks and directly control your computer.
 
 **Q: What happens if the internet connection fails?**  
-A: LUNA maintains basic functionality offline, including system commands and application control. Only cloud-dependent features like AI chat and YouTube require internet.
+A: VORTEX maintains basic functionality offline, including system commands and application control. Only cloud-dependent features like AI chat and YouTube require internet.
 
 **Q: Is my data secure?**  
-A: Yes. LUNA processes most commands locally and only sends data to the cloud when necessary (like for AI responses). No personal data is stored on external servers.
+A: Yes. VORTEX processes most commands locally and only sends data to the cloud when necessary (like for AI responses). No personal data is stored on external servers.
 
-**Q: Will LUNA work on my Mac/Linux system?**  
-A: Currently, LUNA is Windows-only, but cross-platform support is a key priority in our roadmap.
+**Q: Will VORTEX work on my Mac/Linux system?**  
+A: Currently, VORTEX is Windows-only, but cross-platform support is a key priority in our roadmap.
 
 **Q: How much does it cost?**  
-A: LUNA is currently free during the beta phase. Future pricing will include both free and premium tiers with advanced features.
+A: VORTEX is currently free during the beta phase. Future pricing will include both free and premium tiers with advanced features.
 
 ---
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to LUNA, please follow these steps:
+We welcome contributions from the community! If you'd like to contribute to VORTEX, please follow these steps:
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/AmazingFeature`)
